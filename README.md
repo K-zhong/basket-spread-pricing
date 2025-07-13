@@ -1,0 +1,4 @@
+- The file calibration contains the detailed procedures and results of data acquisition and parameter calibration described in Section 5. The implementation is in Python.
+- The file basket_K_change includes the detailed implementation in R for pricing basket options using Theorems 1–5.
+- The file basketspread_K_change contains the R code for pricing basket spread options based on Theorem 5 and Remark 2.
+- The files basket_K_change_MC_control and basketspread_K_change_MC_control provide the Matlab implementations of Monte Carlo simulations for pricing basket options and basket spread options, respectively, using the pricing formula in Theorem 5 as a control variate.
